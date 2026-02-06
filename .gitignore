@@ -1,4 +1,23 @@
-# Ignore all personal files (Clawdbot workspace)
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.astro/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal workspace files (Clawdbot)
 AGENTS.md
 BOOTSTRAP.md
 GitHub*
@@ -17,16 +36,8 @@ trend_research_*
 video_guide.md
 今日todo百科.md
 
-# Keep only jinri-todo project files
+# Keep project files
 README.md
-index.html
-jinri_todo_cover.png
 LICENSE
+jinri_todo_cover.png
 今日todo网站.html
-
-# Keep project subdirectories
-cant-finish/
-emotionally-messy/
-interrupted/
-no-energy/
-overwhelmed/
