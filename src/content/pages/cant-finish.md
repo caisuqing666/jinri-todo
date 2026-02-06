@@ -1,7 +1,7 @@
 ---
+slug: "cant-finish"
 title: "连续几天做不完怎么办"
 description: "连续完不成，不是意志力问题，是任务颗粒度出了问题。"
-slug: "cant-finish"
 ---
 
 先说清楚一件事：**不是你不行，是目标设错了**。
